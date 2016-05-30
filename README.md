@@ -1,2 +1,2 @@
 # MY-FIRST-REPOSITORY
-hello, my name is lina Iam asoftware engineer 
+hello, my name is lina I am asoftware engineer 
